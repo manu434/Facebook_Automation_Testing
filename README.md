@@ -33,13 +33,15 @@ Luminar_project
 │── test-output (TestNG Reports)
 │── pom.xml (Maven Configuration)
 
-## 🚀 Features
-- **Facebook Login Automation** ✅
-- **Automated Post Creation** 📝
-- **Profile Management** 👤
-- **News Scraping from Facebook** 📰
-- **File Upload Automation** 📂
-- **Screenshot Capturing** 📸
+## ✨ Features
+- **Automated Facebook Login** 🔑
+- **New Post Creation** 📝
+- **Following Pages** 📌
+- **Profile Management** 🏷️
+- **News Scraping** 📰
+- **Test Execution with TestNG** 🛠️
+- **Data Handling with Excel Utility** 📊
+- **Screenshots for Debugging** 📷
 
 ## 📦 Project Modules
 ### 📌 Pages (POM)
