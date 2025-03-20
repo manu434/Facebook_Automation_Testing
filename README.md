@@ -1,9 +1,10 @@
 
 # 🌟  Facebook_Automation_Testing:
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/Luminar_Project?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/Luminar_Project?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Luminar_Project?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
+![Java](https://img.shields.io/badge/Java-Programming-red?style=for-the-badge&logo=java)
+![TestNG](https://img.shields.io/badge/TestNG-Testing-blueviolet?style=for-the-badge&logo=testng)
+![Maven](https://img.shields.io/badge/Maven-Build-orange?style=for-the-badge&logo=apache-maven)
 
 ## 📌 Overview
 Luminar Project is a **Selenium automation framework** designed for automating Facebook functionalities such as login, profile management, post creation, and news scraping. This project follows a **structured Page Object Model (POM)** for better maintainability and scalability.
